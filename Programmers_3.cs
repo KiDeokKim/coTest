@@ -30,6 +30,11 @@ namespace ConsoleApp1
 			//added Friday(2016)
 			dayCount = (dayCount + 5) % 7;
 			answer = strDay[dayCount];
+
+			//new way
+			//DateTime dt = new DateTime(2016, month, day);
+			//answer = dt.ToString("ddd").ToUpper();
+
 			return answer;
 		}
 	}
