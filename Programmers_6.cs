@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     /**
-	 * LV1
+	 * LV2
 	 * Programmers 
 	 * 올바른 괄호 구하기
 	 * https://programmers.co.kr/learn/courses/30/lessons/12909
