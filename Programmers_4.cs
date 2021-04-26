@@ -12,6 +12,7 @@ namespace ConsoleApp1
 		 * LV1
 		 * Programmers
 		 * 3개의 값 더해서 소수 구하기
+		 * https://programmers.co.kr/learn/courses/30/lessons/12977
 		 */
 		public int solution(int[] nums)
 		{

@@ -13,7 +13,7 @@ namespace ConsoleApp1
 		/***
          * LV1
          * 프로그래머스 완전탐색_모의고사
-         * 
+         * https://programmers.co.kr/learn/courses/30/lessons/42840
          */
 		static void Main(string[] args)
 		{

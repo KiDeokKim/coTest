@@ -12,6 +12,7 @@ namespace ConsoleApp1
 		 * LV1
 		 * 
 		 * Programmers Getdayname
+		 * https://programmers.co.kr/learn/courses/30/lessons/12901
 		 */
 		public string solution(int month, int day)
 		{
