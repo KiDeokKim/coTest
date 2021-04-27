@@ -10,7 +10,7 @@ namespace ConsoleApp1
 	 * Lv2
 	 * Programmers 
 	 * get remainder value of fibonacci to 1234567
-	 * 
+	 * https://programmers.co.kr/learn/courses/30/lessons/12945
 	 */
 	class Programmers_8_cs
 	{
